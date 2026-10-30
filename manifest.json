@@ -1,0 +1,33 @@
+[
+  {
+    "guid": "a4c9f8b2-61e4-4d3b-9a1c-8e72b5d01941",
+    "name": "PlaybackGuard",
+    "description": "Monitoreo de reproducciones en vivo, validación de fecha de expiración y límite de conexiones por usuario (API), protección anti-abuso y límite global del servidor.",
+    "overview": "Control de reproducciones, expiración y conexiones por API y servidor",
+    "owner": "PlaybackGuard",
+    "category": "General",
+    "versions": [
+      {
+        "version": "1.1.1.0",
+        "changelog": "Servidor de licencias configurado en licence.auracorepanel.com",
+        "targetAbi": "10.9.0.0",
+        "sourceUrl": "https://raw.githubusercontent.com/pituntiDEV/playback-guard-plugin/main/dist/jellyfin/PlaybackGuard_1.1.1.0.zip",
+        "embyDllUrl": "https://raw.githubusercontent.com/pituntiDEV/playback-guard-plugin/main/dist/emby/PlaybackGuard.Emby.dll",
+        "jellyfinDllUrl": "https://raw.githubusercontent.com/pituntiDEV/playback-guard-plugin/main/dist/jellyfin/PlaybackGuard.Jellyfin.dll",
+        "checksum": "54879ef1351ec519ee4fe40dc4ad2e05",
+        "timestamp": "2026-10-30T06:49:13Z"
+      },
+      {
+        "version": "1.1.0.0",
+        "changelog": "Sistema de activación por Llave de Licencia Premium (RSA-2048)",
+        "targetAbi": "10.9.0.0",
+        "sourceUrl": "https://raw.githubusercontent.com/pituntiDEV/playback-guard-plugin/main/dist/jellyfin/PlaybackGuard_1.1.0.0.zip",
+        "embyDllUrl": "https://raw.githubusercontent.com/pituntiDEV/playback-guard-plugin/main/dist/emby/PlaybackGuard.Emby.dll",
+        "jellyfinDllUrl": "https://raw.githubusercontent.com/pituntiDEV/playback-guard-plugin/main/dist/jellyfin/PlaybackGuard.Jellyfin.dll",
+        "checksum": "114abaaaeadb764698c780c00fd6f554",
+        "timestamp": "2026-10-30T06:41:53Z"
+      }
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/pituntiDEV/playback-guard-plugin/main/dist/thumb.png"
+  }
+]
